@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.lanye.spring_trinket_shop.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "spring_trinket_shop.refmap.json",
+  "mixins": [],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
