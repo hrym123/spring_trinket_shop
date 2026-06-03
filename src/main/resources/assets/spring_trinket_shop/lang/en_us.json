@@ -1,3 +1,6 @@
 {
-  "itemGroup.spring_trinket_shop.main": "Spring Trinket Shop"
+  "itemGroup.spring_trinket_shop.main": "Spring Trinket Shop",
+  "item.spring_trinket_shop.decorative_helmet_blue_top_hat": "Blue Top Hat",
+  "item.spring_trinket_shop.decorative_helmet_pink_top_hat": "Pink Top Hat",
+  "item.spring_trinket_shop.decorative_helmet_lop_eared_rabbit": "Lop-Eared Rabbit Headband"
 }
