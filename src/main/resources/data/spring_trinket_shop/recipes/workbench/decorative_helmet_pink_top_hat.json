@@ -1,0 +1,15 @@
+{
+  "type": "reverie_core:fantasy_workbench",
+  "category": "spring_trinket_shop",
+  "core_count": 1,
+  "ingredients": [
+    {
+      "item": "reverie_core:fantasy_core"
+    }
+  ],
+  "result": {
+    "item": "spring_trinket_shop:decorative_helmet_pink_top_hat",
+    "count": 1
+  },
+  "dye": "pink"
+}
