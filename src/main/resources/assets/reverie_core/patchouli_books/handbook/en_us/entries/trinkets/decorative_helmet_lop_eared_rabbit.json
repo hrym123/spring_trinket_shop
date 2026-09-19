@@ -1,0 +1,14 @@
+{
+  "name": "item.spring_trinket_shop.decorative_helmet_lop_eared_rabbit",
+  "icon": "spring_trinket_shop:decorative_helmet_lop_eared_rabbit",
+  "category": "reverie_core:trinkets",
+  "read_by_default": true,
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "spring_trinket_shop:decorative_helmet_lop_eared_rabbit",
+      "text": "patchouli.reverie_core.handbook.entry.helmet"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "item.spring_trinket_shop.decorative_helmet_blue_top_hat",
+  "icon": "spring_trinket_shop:decorative_helmet_blue_top_hat",
+  "category": "reverie_core:trinkets",
+  "read_by_default": true,
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "spring_trinket_shop:decorative_helmet_blue_top_hat",
+      "text": "patchouli.reverie_core.handbook.entry.helmet"
+    }
+  ]
+}
