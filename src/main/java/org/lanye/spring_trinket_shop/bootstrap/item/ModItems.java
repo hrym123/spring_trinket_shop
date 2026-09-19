@@ -39,6 +39,16 @@ public final class ModItems {
                     "decorative_helmet_lop_eared_rabbit",
                     "decorative_helmet_lop_eared_rabbit");
 
+    public static final RegistryObject<Item> DECORATIVE_HELMET_PHOEBE =
+            DecorativeHelmetRegistration.registerWithItemModel(
+                    ITEMS,
+                    new Item.Properties().stacksTo(1),
+                    SpringTrinketShop.MODID,
+                    "decorative_helmet_phoebe",
+                    "decorative_helmet_phoebe",
+                    "decorative_helmet_phoebe_item",
+                    "decorative_helmet_phoebe_item");
+
     public static void register(IEventBus modEventBus) {
         ITEMS.register(modEventBus);
     }

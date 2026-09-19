@@ -25,6 +25,7 @@ public final class ModCreativeTabs {
         list.add(out -> out.accept(ModItems.DECORATIVE_HELMET_BLUE_TOP_HAT.get()));
         list.add(out -> out.accept(ModItems.DECORATIVE_HELMET_PINK_TOP_HAT.get()));
         list.add(out -> out.accept(ModItems.DECORATIVE_HELMET_LOP_EARED_RABBIT.get()));
+        list.add(out -> out.accept(ModItems.DECORATIVE_HELMET_PHOEBE.get()));
         return List.copyOf(list);
     }
 
